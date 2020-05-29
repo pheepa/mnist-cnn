@@ -7,6 +7,8 @@ Convolutional Neural Network on PyTorch
 ## Results
 Train loss:
 
-![train loss](https://github.com/pheepa/mnist-cnn/blob/master/loss.jpg)
+![train loss](https://github.com/pheepa/mnist-cnn/blob/master/results/loss.jpg)
 
 accuracy: 99.310%
+
+![test](https://github.com/pheepa/mnist-cnn/blob/master/results/test.jpg)
